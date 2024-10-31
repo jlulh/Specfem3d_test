@@ -1,0 +1,21 @@
+{
+    "DATA": "", 
+    "FUNC": "/home/liuhui/csim/3dwd/model0050_test/scratch/evalfunc", 
+    "GRAD": "/home/liuhui/csim/3dwd/model0050_test/scratch/evalgrad", 
+    "HESS": "/home/liuhui/csim/3dwd/model0050_test/scratch/evalhess", 
+    "LOCAL": null, 
+    "MASK": null, 
+    "MESH43D": "/home/liuhui/csim/3dwd/model0050_test/MESH", 
+    "MODEL": "/home/liuhui/csim/3dwd/model0050_test/model_init_gll", 
+    "MODEL_INIT": "/home/liuhui/csim/3dwd/model0050_test/model_init_gll", 
+    "MODEL_TRUE": "/home/liuhui/csim/3dwd/model0050_test/model_true_gll", 
+    "OPTIMIZE": "/home/liuhui/csim/3dwd/model0050_test/scratch/optimize", 
+    "OUTPUT": "/home/liuhui/csim/3dwd/model0050_test/output", 
+    "PRECOND": "", 
+    "SCRATCH": "/home/liuhui/csim/3dwd/model0050_test/scratch", 
+    "SOLVER": "/home/liuhui/csim/3dwd/model0050_test/scratch/solver", 
+    "SPECFEM_BIN": "/home/liuhui/3dtwdlab/specfem3d-master/bin", 
+    "SPECFEM_DATA": "/home/liuhui/csim/3dwd/model0050_test/DATA", 
+    "SYSTEM": "/home/liuhui/csim/3dwd/model0050_test/scratch/system", 
+    "WORKDIR": "/home/liuhui/csim/3dwd/model0050_test"
+}

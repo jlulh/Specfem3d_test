@@ -1,0 +1,22 @@
+Device Name = NVIDIA GeForce RTX 4090
+memory:
+  totalGlobalMem (in MB): 24111.062500
+  totalGlobalMem (in GB): 23.545959
+  totalConstMem (in bytes): 65536
+  Maximum 1D texture size (in bytes): 131072
+  sharedMemPerBlock (in bytes): 49152
+  regsPerBlock (in bytes): 65536
+blocks:
+  Maximum number of threads per block: 1024
+  Maximum size of each dimension of a block: 1024 x 1024 x 64
+  Maximum sizes of each dimension of a grid: 2147483647 x 65535 x 65535
+features:
+  Compute capability of the device = 8.9
+  multiProcessorCount: 128
+  canMapHostMemory: TRUE
+  deviceOverlap: TRUE
+  concurrentKernels: TRUE
+CUDA Device count: 1
+CUDA Driver Version / Runtime Version          12.6 / 11.8
+memory usage:
+  rank 0: GPU memory usage: used = 1189.562500 MB, free = 22921.500000 MB, total = 24111.062500 MB

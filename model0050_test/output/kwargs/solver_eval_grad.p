@@ -1,0 +1,9 @@
+(dp0
+S'path'
+p1
+S'/home/liuhui/csim/3dwd/model0050_test/scratch/evalgrad'
+p2
+sS'export_traces'
+p3
+I01
+s.

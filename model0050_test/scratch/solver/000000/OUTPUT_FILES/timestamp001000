@@ -1,0 +1,16 @@
+ Time step #         1000
+ Time:   0.159799993      seconds
+ Elapsed time in seconds =   0.51990082400000004     
+ Elapsed time in hh:mm:ss =      0 h 00 m 00 s
+ Mean elapsed time per time step in seconds =    5.1990082400000007E-004
+ Max norm displacement vector U in all slices (m) =    8.56240803E-08
+ Max norm pressure P in all slices (Pa) =    140752800.    
+ Max norm displacement vector U (backward) in all slices (m) =   0.322499335    
+ Max norm pressure P (backward) in all slices (Pa) =    30522614.0    
+ Time steps done =         1000  out of         1000
+ Time steps remaining =            0
+ Estimated remaining time in seconds =    0.0000000000000000     
+ Estimated remaining time in hh:mm:ss =      0 h 00 m 00 s
+ Estimated total run time in seconds =   0.51990082400000004     
+ Estimated total run time in hh:mm:ss =      0 h 00 m 00 s
+ We have done    100.000000     % of that

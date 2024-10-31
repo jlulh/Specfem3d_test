@@ -1,0 +1,14 @@
+ Running XCOMBINE_SEM
+
+              1  events
+
+ summing kernels in: 
+   /home/liuhui/csim/3dwd/model0050_test/scratch/evalgrad/kernels/000000
+
+ reading in array for: hess_kernel
+                1  out of            1
+   norm array:    26275175813.085442     
+
+ writing sum: hess_kernel
+
+ done writing all arrays, see directory: /home/liuhui/csim/3dwd/model0050_test/scratch/evalgrad/kernels/sum_nosmooth                                                                                                                                                                                                                                                                                                                                                                                                                                                     

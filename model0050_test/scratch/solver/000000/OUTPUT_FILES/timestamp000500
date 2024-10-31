@@ -1,0 +1,17 @@
+ Time step #          500
+ Time:    5.97999990E-02  seconds
+ Elapsed time in seconds =   0.27590564500000003     
+ Elapsed time in hh:mm:ss =      0 h 00 m 00 s
+ Mean elapsed time per time step in seconds =    5.5181129000000007E-004
+ Max norm displacement vector U in all slices (m) =    1.46191283E-07
+ Max norm pressure P in all slices (Pa) =    303533760.    
+ Max norm displacement vector U (backward) in all slices (m) =   0.106602274    
+ Max norm pressure P (backward) in all slices (Pa) =    18246646.0    
+ Time steps done =          500  out of         1000
+ Time steps remaining =          500
+ Estimated remaining time in seconds =   0.27590564500000003     
+ Estimated remaining time in hh:mm:ss =      0 h 00 m 00 s
+ Estimated total run time in seconds =   0.55181129000000007     
+ Estimated total run time in hh:mm:ss =      0 h 00 m 00 s
+ We have done    50.0000000     % of that
+ The run will finish approximately on (in local time): Thu Oct 31, 2024 15:00

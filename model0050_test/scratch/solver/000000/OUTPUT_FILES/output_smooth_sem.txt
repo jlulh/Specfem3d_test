@@ -1,0 +1,81 @@
+ Reading mesh databases...
+   reads binary mesh files: proc***_external_mesh.bin
+   from directory         : ./OUTPUT_FILES/DATABASES_MPI
+
+   simulation w/ acoustic    domain:  T
+   simulation w/ elastic     domain:  T
+   simulation w/ poroelastic domain:  F
+
+   slice 0 has:
+   number of elements acoustic   :        1152
+   number of elements elastic    :        3456
+   number of elements poroelastic:           0
+   done
+
+   total acoustic elements    :        1152
+   total elastic elements     :        3456
+   total poroelastic elements :           0
+
+ Mesh resolution:
+
+ ********
+ minimum and maximum number of elements
+ and points in the CUBIT + SCOTCH mesh:
+
+ NSPEC_global_min =         4608
+ NSPEC_global_max =         4608
+ NSPEC_global_max / NSPEC_global_min imbalance =    1.00000000      =    0.00000000      %
+ NSPEC_global_sum =         4608
+
+ NGLOB_global_min =       310761
+ NGLOB_global_max =       310761
+ NGLOB_global_max / NGLOB_global_min imbalance =    1.00000000      =    0.00000000      %
+ NGLOB_global_sum =       310761
+
+ If you have elements of a single type (all acoustic, all elastic, all poroelastic, and without CPML)
+ in the whole mesh, then there should be no significant imbalance in the above numbers.
+ Otherwise, it is normal to have imbalance in elements and points because the domain decomposer
+ compensates for the different cost of different elements by partitioning them unevenly among processes.
+ ********
+
+
+ ********
+ Model: P   velocity min,max =    1200.00000       2000.00000    
+ Model: S   velocity min,max =    0.00000000       800.000000    
+
+ Model: Poisson's ratio min,max =   0.100000001      0.500000000    
+ ********
+
+ *********************************************
+ *** Verification of simulation parameters ***
+ *********************************************
+
+ *** Xmin and Xmax of the model =    0.00000000       160.000000    
+ *** Ymin and Ymax of the model =    0.00000000       90.0000000    
+ *** Zmin and Zmax of the model =   -40.0000000       0.00000000    
+
+ *** Max GLL point distance =    1.63663483    
+ *** Min GLL point distance =   0.863365173    
+ *** Max/min ratio =    1.89564610    
+
+ *** Max element size =    5.00000000    
+ *** Min element size =    5.00000000    
+ *** Max/min ratio =    1.00000000    
+
+ *** Minimum period resolved =    7.81250000E-03
+ *** Maximum suggested time step =    2.14999993E-04
+
+ *** for DT :    2.0000000000000001E-004
+ *** Max stability for wave velocities =   0.463303387    
+
+ Elapsed time for checking mesh resolution in seconds =    2.9129869999999988E-003
+
+ kd-tree:
+   total data points:         4608
+   theoretical   number of nodes:         9214
+                tree memory size:   0.281188965     MB
+   actual        number of nodes:         9215
+                tree memory size:   0.281219482     MB
+   maximum depth   :           13
+   creation timing :    5.43996692E-04 (s)
+
