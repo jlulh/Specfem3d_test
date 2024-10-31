@@ -1,0 +1,2 @@
+model0050_test/scratch/solver/000000/OUTPUT_FILES/DATABASES_MPI/proc000000_absorb_field.bin filter=lfs diff=lfs merge=lfs -text
+model0050_test/scratch/solver/000000/OUTPUT_FILES/DATABASES_MPI/proc000000_absorb_potential.bin filter=lfs diff=lfs merge=lfs -text
